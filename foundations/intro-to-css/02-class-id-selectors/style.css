@@ -1,0 +1,16 @@
+.odds {
+    background-color: rgb(250, 116, 116);
+    font-family: "Verdana", "DevaJu Sans", sans-serif;
+}
+.specialSize{
+    font-size: 24px;
+}
+#firstID{
+    font-size: 36px;
+    color: rgb(62, 93, 233);
+}
+#secondID{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: rgb(102, 231, 70);
+}
